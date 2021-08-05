@@ -1,0 +1,39 @@
+.logo{
+    margin: 25px 0;
+    width: 250px;
+    border: 1px solid brown;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 50px ;
+}
+.btn-cart{
+    padding: 10px;
+    border-radius: 50px ;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: blanchedalmond;
+    color: rgb(21, 142, 190);
+    margin-bottom: 50px;
+}
+.products{
+    display: flex;
+    max-width: 576px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.product-item{
+    width: 85px;
+    border: 2px solid red;
+    padding: 3px;
+    border-radius: 5px;
+    text-align: center;
+    background-image: url(img/7-min.webp);
+    
+}
+.by-btn{
+    background-color: rgb(241, 219, 241);
+    border-radius: 5px;
+}
+p{
+    font-size : 20px;
+}
